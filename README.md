@@ -1,0 +1,2 @@
+# ning
+my first repository
